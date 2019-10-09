@@ -1,0 +1,526 @@
+fileFormatVersion: 2
+guid: b97e8f44d6b1c6540b67d998f00f2614
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Barrer2
+    100002: Barrer2 1
+    100004: Barrer3
+    100006: "Chafl\xE1n1"
+    100008: "Chafl\xE1n1 1"
+    100010: Cortar-Extruir1
+    100012: Cortar-Extruir1 1
+    100014: Cortar-Extruir1 10
+    100016: Cortar-Extruir1 11
+    100018: Cortar-Extruir1 12
+    100020: Cortar-Extruir1 13
+    100022: Cortar-Extruir1 14
+    100024: Cortar-Extruir1 15
+    100026: Cortar-Extruir1 16
+    100028: Cortar-Extruir1 17
+    100030: Cortar-Extruir1 18
+    100032: Cortar-Extruir1 19
+    100034: Cortar-Extruir1 2
+    100036: Cortar-Extruir1 20
+    100038: Cortar-Extruir1 21
+    100040: Cortar-Extruir1 22
+    100042: Cortar-Extruir1 23
+    100044: Cortar-Extruir1 24
+    100046: Cortar-Extruir1 25
+    100048: Cortar-Extruir1 3
+    100050: Cortar-Extruir1 4
+    100052: Cortar-Extruir1 5
+    100054: Cortar-Extruir1 6
+    100056: Cortar-Extruir1 7
+    100058: Cortar-Extruir1 8
+    100060: Cortar-Extruir1 9
+    100062: Cortar-Extruir12
+    100064: Cortar-Extruir2
+    100066: Cortar-Extruir3
+    100068: Cortar-Extruir3 1
+    100070: Cortar-Extruir3 2
+    100072: Cortar-Extruir3 3
+    100074: Cortar-Extruir3 4
+    100076: Cortar-Extruir5
+    100078: Cortar-Extruir5 1
+    100080: Cortar-Extruir6
+    100082: Cortar-Extruir7
+    100084: Cortar-Extruir8
+    100086: Cortar-Extruir9
+    100088: MatrizL2
+    100090: MatrizL2 1
+    100092: //RootNode
+    100094: Redondeo1
+    100096: Redondeo1 1
+    100098: Redondeo2
+    100100: Redondeo2 1
+    100102: "Revoluci\xF3n1"
+    100104: "Revoluci\xF3n1 1"
+    100106: 'S80 000123 - 17991 - TORNILLO #8 x 1 PAN PHILLIPS_31'
+    100108: 'S80 000123 - 17991 - TORNILLO #8 x 1 PAN PHILLIPS_32'
+    100110: 'S80 000123 - 17991 - TORNILLO #8 x 1 PAN PHILLIPS_33'
+    100112: 'S80 000123 - 17991 - TORNILLO #8 x 1 PAN PHILLIPS_34'
+    100114: 'S80 00816 - 03387 - Tornillo # 8 x 1-2 Avellanado_48'
+    100116: 'S80 00816 - 03387 - Tornillo # 8 x 1-2 Avellanado_49'
+    100118: S80 09250 - CIERRE EMBUTIDO NEGRO 02992 GIESSE SIN LLAVE_Cerrado_13
+    100120: S80 09546 - RODAMIENTO NYLON S80 125K ACOFAL_29
+    100122: S80 09546 - RODAMIENTO NYLON S80 125K ACOFAL_30
+    100124: S80 09548 - AISLADOR CENTRAL S80_47
+    100126: S80 09549 - TOPE SUPERIOR ENGANCHE S80 - OX_10
+    100128: S80 09549 - TOPE SUPERIOR ENGANCHE S80 - OX_35
+    100130: S80 09552 - GUIA PLASTICA INFERIOR S80_27
+    100132: S80 09552 - GUIA PLASTICA INFERIOR S80_28
+    100134: S80 1 - oo_39
+    100136: S80 1 - oo_39 1
+    100138: 'S80 100756 - TORNILLO # 6 x 1-2 Avellanado_11'
+    100140: 'S80 100756 - TORNILLO # 6 x 1-2 Avellanado_12'
+    100142: 'S80 100756 - TORNILLO # 6 x 1-2 Avellanado_36'
+    100144: 'S80 100756 - TORNILLO # 6 x 1-2 Avellanado_37'
+    100146: 'S80 17105 - TORNILLO #8 x 3-4 PAN PHILLIPS_50'
+    100148: 'S80 17105 - TORNILLO #8 x 3-4 PAN PHILLIPS_51'
+    100150: 'S80 17105 - TORNILLO #8 x 3-4 PAN PHILLIPS_52'
+    100152: 'S80 17105 - TORNILLO #8 x 3-4 PAN PHILLIPS_53'
+    100154: 'S80 17105 - TORNILLO #8 x 3-4 PAN PHILLIPS_54'
+    100156: 'S80 17105 - TORNILLO #8 x 3-4 PAN PHILLIPS_55'
+    100158: 'S80 17105 - TORNILLO #8 x 3-4 PAN PHILLIPS_56'
+    100160: 'S80 17105 - TORNILLO #8 x 3-4 PAN PHILLIPS_57'
+    100162: S80 2 - oo_40
+    100164: S80 2 - oo_40 1
+    100166: S80 3 - oo_41
+    100168: S80 3 - oo_41 1
+    100170: S80 4 - oo_42
+    100172: S80 4 - oo_42 1
+    100174: S80 Brio handle_14
+    100176: S80 Brio handle_15_21
+    100178: S80 Brio handle_2_15
+    100180: S80 Brio handle_3_16
+    100182: S80 Brio handle_4_17
+    100184: S80 Brio handle_7_18
+    100186: S80 Brio handle_8_19
+    100188: S80 Brio handle_9_20
+    100190: S80 CABEZAL MARCO_MERCADEO_46
+    100192: S80 CABEZAL NAVE_mercadeo_25
+    100194: S80 CABEZAL NAVE_mercadeo_7
+    100196: S80 Empaque nave PS80_38
+    100198: S80 Empaque nave PS80_9
+    100200: S80 ENGANCHE_mercadeo_24
+    100202: S80 JAMBA MARCO2_MERCADEO_44
+    100204: S80 JAMBA MARCO_MERCADEO_45
+    100206: S80 MARCO_MERCADEO_1
+    100208: S80 NAVE 1_mercadeo_2
+    100210: S80 NAVE 2_3
+    100212: S80 PISAD2299_58
+    100214: S80 PUERTA SERIE 80
+    100216: S80 SILLAR MARCO_Mercadeo_43
+    100218: S80 SILLAR NAVE_fijo mercadeo_4
+    100220: S80 SILLAR NAVE_movil mercadeo_22
+    100222: S80 TRASLAPE FIJO_LISO_23
+    100224: S80 TRASLAPE FIJO_mercadeo_5
+    100226: S80 vidrio_fijo mercadeo_26
+    100228: S80 vidrio_fijo mercadeo_8
+    100230: S80 VS80 - ENGANCHE - ENGAN2250_interior mercadeo_6
+    100232: Saliente-Extruir1
+    100234: Saliente-Extruir1 1
+    100236: Saliente-Extruir1 2
+    100238: Saliente-Extruir1 3
+    100240: Saliente-Extruir1 4
+    100242: Saliente-Extruir1 5
+    100244: Saliente-Extruir1 6
+    100246: Saliente-Extruir3
+    100248: Saliente-Extruir5
+    100250: Saliente-Extruir5 1
+    400000: Barrer2
+    400002: Barrer2 1
+    400004: Barrer3
+    400006: "Chafl\xE1n1"
+    400008: "Chafl\xE1n1 1"
+    400010: Cortar-Extruir1
+    400012: Cortar-Extruir1 1
+    400014: Cortar-Extruir1 10
+    400016: Cortar-Extruir1 11
+    400018: Cortar-Extruir1 12
+    400020: Cortar-Extruir1 13
+    400022: Cortar-Extruir1 14
+    400024: Cortar-Extruir1 15
+    400026: Cortar-Extruir1 16
+    400028: Cortar-Extruir1 17
+    400030: Cortar-Extruir1 18
+    400032: Cortar-Extruir1 19
+    400034: Cortar-Extruir1 2
+    400036: Cortar-Extruir1 20
+    400038: Cortar-Extruir1 21
+    400040: Cortar-Extruir1 22
+    400042: Cortar-Extruir1 23
+    400044: Cortar-Extruir1 24
+    400046: Cortar-Extruir1 25
+    400048: Cortar-Extruir1 3
+    400050: Cortar-Extruir1 4
+    400052: Cortar-Extruir1 5
+    400054: Cortar-Extruir1 6
+    400056: Cortar-Extruir1 7
+    400058: Cortar-Extruir1 8
+    400060: Cortar-Extruir1 9
+    400062: Cortar-Extruir12
+    400064: Cortar-Extruir2
+    400066: Cortar-Extruir3
+    400068: Cortar-Extruir3 1
+    400070: Cortar-Extruir3 2
+    400072: Cortar-Extruir3 3
+    400074: Cortar-Extruir3 4
+    400076: Cortar-Extruir5
+    400078: Cortar-Extruir5 1
+    400080: Cortar-Extruir6
+    400082: Cortar-Extruir7
+    400084: Cortar-Extruir8
+    400086: Cortar-Extruir9
+    400088: MatrizL2
+    400090: MatrizL2 1
+    400092: //RootNode
+    400094: Redondeo1
+    400096: Redondeo1 1
+    400098: Redondeo2
+    400100: Redondeo2 1
+    400102: "Revoluci\xF3n1"
+    400104: "Revoluci\xF3n1 1"
+    400106: 'S80 000123 - 17991 - TORNILLO #8 x 1 PAN PHILLIPS_31'
+    400108: 'S80 000123 - 17991 - TORNILLO #8 x 1 PAN PHILLIPS_32'
+    400110: 'S80 000123 - 17991 - TORNILLO #8 x 1 PAN PHILLIPS_33'
+    400112: 'S80 000123 - 17991 - TORNILLO #8 x 1 PAN PHILLIPS_34'
+    400114: 'S80 00816 - 03387 - Tornillo # 8 x 1-2 Avellanado_48'
+    400116: 'S80 00816 - 03387 - Tornillo # 8 x 1-2 Avellanado_49'
+    400118: S80 09250 - CIERRE EMBUTIDO NEGRO 02992 GIESSE SIN LLAVE_Cerrado_13
+    400120: S80 09546 - RODAMIENTO NYLON S80 125K ACOFAL_29
+    400122: S80 09546 - RODAMIENTO NYLON S80 125K ACOFAL_30
+    400124: S80 09548 - AISLADOR CENTRAL S80_47
+    400126: S80 09549 - TOPE SUPERIOR ENGANCHE S80 - OX_10
+    400128: S80 09549 - TOPE SUPERIOR ENGANCHE S80 - OX_35
+    400130: S80 09552 - GUIA PLASTICA INFERIOR S80_27
+    400132: S80 09552 - GUIA PLASTICA INFERIOR S80_28
+    400134: S80 1 - oo_39
+    400136: S80 1 - oo_39 1
+    400138: 'S80 100756 - TORNILLO # 6 x 1-2 Avellanado_11'
+    400140: 'S80 100756 - TORNILLO # 6 x 1-2 Avellanado_12'
+    400142: 'S80 100756 - TORNILLO # 6 x 1-2 Avellanado_36'
+    400144: 'S80 100756 - TORNILLO # 6 x 1-2 Avellanado_37'
+    400146: 'S80 17105 - TORNILLO #8 x 3-4 PAN PHILLIPS_50'
+    400148: 'S80 17105 - TORNILLO #8 x 3-4 PAN PHILLIPS_51'
+    400150: 'S80 17105 - TORNILLO #8 x 3-4 PAN PHILLIPS_52'
+    400152: 'S80 17105 - TORNILLO #8 x 3-4 PAN PHILLIPS_53'
+    400154: 'S80 17105 - TORNILLO #8 x 3-4 PAN PHILLIPS_54'
+    400156: 'S80 17105 - TORNILLO #8 x 3-4 PAN PHILLIPS_55'
+    400158: 'S80 17105 - TORNILLO #8 x 3-4 PAN PHILLIPS_56'
+    400160: 'S80 17105 - TORNILLO #8 x 3-4 PAN PHILLIPS_57'
+    400162: S80 2 - oo_40
+    400164: S80 2 - oo_40 1
+    400166: S80 3 - oo_41
+    400168: S80 3 - oo_41 1
+    400170: S80 4 - oo_42
+    400172: S80 4 - oo_42 1
+    400174: S80 Brio handle_14
+    400176: S80 Brio handle_15_21
+    400178: S80 Brio handle_2_15
+    400180: S80 Brio handle_3_16
+    400182: S80 Brio handle_4_17
+    400184: S80 Brio handle_7_18
+    400186: S80 Brio handle_8_19
+    400188: S80 Brio handle_9_20
+    400190: S80 CABEZAL MARCO_MERCADEO_46
+    400192: S80 CABEZAL NAVE_mercadeo_25
+    400194: S80 CABEZAL NAVE_mercadeo_7
+    400196: S80 Empaque nave PS80_38
+    400198: S80 Empaque nave PS80_9
+    400200: S80 ENGANCHE_mercadeo_24
+    400202: S80 JAMBA MARCO2_MERCADEO_44
+    400204: S80 JAMBA MARCO_MERCADEO_45
+    400206: S80 MARCO_MERCADEO_1
+    400208: S80 NAVE 1_mercadeo_2
+    400210: S80 NAVE 2_3
+    400212: S80 PISAD2299_58
+    400214: S80 PUERTA SERIE 80
+    400216: S80 SILLAR MARCO_Mercadeo_43
+    400218: S80 SILLAR NAVE_fijo mercadeo_4
+    400220: S80 SILLAR NAVE_movil mercadeo_22
+    400222: S80 TRASLAPE FIJO_LISO_23
+    400224: S80 TRASLAPE FIJO_mercadeo_5
+    400226: S80 vidrio_fijo mercadeo_26
+    400228: S80 vidrio_fijo mercadeo_8
+    400230: S80 VS80 - ENGANCHE - ENGAN2250_interior mercadeo_6
+    400232: Saliente-Extruir1
+    400234: Saliente-Extruir1 1
+    400236: Saliente-Extruir1 2
+    400238: Saliente-Extruir1 3
+    400240: Saliente-Extruir1 4
+    400242: Saliente-Extruir1 5
+    400244: Saliente-Extruir1 6
+    400246: Saliente-Extruir3
+    400248: Saliente-Extruir5
+    400250: Saliente-Extruir5 1
+    2100000: No Name
+    2300000: Barrer2
+    2300002: Barrer2 1
+    2300004: Barrer3
+    2300006: "Chafl\xE1n1"
+    2300008: "Chafl\xE1n1 1"
+    2300010: Cortar-Extruir1
+    2300012: Cortar-Extruir1 1
+    2300014: Cortar-Extruir1 10
+    2300016: Cortar-Extruir1 11
+    2300018: Cortar-Extruir1 12
+    2300020: Cortar-Extruir1 13
+    2300022: Cortar-Extruir1 14
+    2300024: Cortar-Extruir1 15
+    2300026: Cortar-Extruir1 16
+    2300028: Cortar-Extruir1 17
+    2300030: Cortar-Extruir1 18
+    2300032: Cortar-Extruir1 19
+    2300034: Cortar-Extruir1 2
+    2300036: Cortar-Extruir1 20
+    2300038: Cortar-Extruir1 21
+    2300040: Cortar-Extruir1 22
+    2300042: Cortar-Extruir1 23
+    2300044: Cortar-Extruir1 24
+    2300046: Cortar-Extruir1 25
+    2300048: Cortar-Extruir1 3
+    2300050: Cortar-Extruir1 4
+    2300052: Cortar-Extruir1 5
+    2300054: Cortar-Extruir1 6
+    2300056: Cortar-Extruir1 7
+    2300058: Cortar-Extruir1 8
+    2300060: Cortar-Extruir1 9
+    2300062: Cortar-Extruir12
+    2300064: Cortar-Extruir2
+    2300066: Cortar-Extruir3
+    2300068: Cortar-Extruir3 1
+    2300070: Cortar-Extruir3 2
+    2300072: Cortar-Extruir3 3
+    2300074: Cortar-Extruir3 4
+    2300076: Cortar-Extruir5
+    2300078: Cortar-Extruir5 1
+    2300080: Cortar-Extruir6
+    2300082: Cortar-Extruir7
+    2300084: Cortar-Extruir8
+    2300086: Cortar-Extruir9
+    2300088: MatrizL2
+    2300090: MatrizL2 1
+    2300092: Redondeo1
+    2300094: Redondeo1 1
+    2300096: Redondeo2
+    2300098: Redondeo2 1
+    2300100: "Revoluci\xF3n1"
+    2300102: "Revoluci\xF3n1 1"
+    2300104: Saliente-Extruir1
+    2300106: Saliente-Extruir1 1
+    2300108: Saliente-Extruir1 2
+    2300110: Saliente-Extruir1 3
+    2300112: Saliente-Extruir1 4
+    2300114: Saliente-Extruir1 5
+    2300116: Saliente-Extruir1 6
+    2300118: Saliente-Extruir3
+    2300120: Saliente-Extruir5
+    2300122: Saliente-Extruir5 1
+    3300000: Barrer2
+    3300002: Barrer2 1
+    3300004: Barrer3
+    3300006: "Chafl\xE1n1"
+    3300008: "Chafl\xE1n1 1"
+    3300010: Cortar-Extruir1
+    3300012: Cortar-Extruir1 1
+    3300014: Cortar-Extruir1 10
+    3300016: Cortar-Extruir1 11
+    3300018: Cortar-Extruir1 12
+    3300020: Cortar-Extruir1 13
+    3300022: Cortar-Extruir1 14
+    3300024: Cortar-Extruir1 15
+    3300026: Cortar-Extruir1 16
+    3300028: Cortar-Extruir1 17
+    3300030: Cortar-Extruir1 18
+    3300032: Cortar-Extruir1 19
+    3300034: Cortar-Extruir1 2
+    3300036: Cortar-Extruir1 20
+    3300038: Cortar-Extruir1 21
+    3300040: Cortar-Extruir1 22
+    3300042: Cortar-Extruir1 23
+    3300044: Cortar-Extruir1 24
+    3300046: Cortar-Extruir1 25
+    3300048: Cortar-Extruir1 3
+    3300050: Cortar-Extruir1 4
+    3300052: Cortar-Extruir1 5
+    3300054: Cortar-Extruir1 6
+    3300056: Cortar-Extruir1 7
+    3300058: Cortar-Extruir1 8
+    3300060: Cortar-Extruir1 9
+    3300062: Cortar-Extruir12
+    3300064: Cortar-Extruir2
+    3300066: Cortar-Extruir3
+    3300068: Cortar-Extruir3 1
+    3300070: Cortar-Extruir3 2
+    3300072: Cortar-Extruir3 3
+    3300074: Cortar-Extruir3 4
+    3300076: Cortar-Extruir5
+    3300078: Cortar-Extruir5 1
+    3300080: Cortar-Extruir6
+    3300082: Cortar-Extruir7
+    3300084: Cortar-Extruir8
+    3300086: Cortar-Extruir9
+    3300088: MatrizL2
+    3300090: MatrizL2 1
+    3300092: Redondeo1
+    3300094: Redondeo1 1
+    3300096: Redondeo2
+    3300098: Redondeo2 1
+    3300100: "Revoluci\xF3n1"
+    3300102: "Revoluci\xF3n1 1"
+    3300104: Saliente-Extruir1
+    3300106: Saliente-Extruir1 1
+    3300108: Saliente-Extruir1 2
+    3300110: Saliente-Extruir1 3
+    3300112: Saliente-Extruir1 4
+    3300114: Saliente-Extruir1 5
+    3300116: Saliente-Extruir1 6
+    3300118: Saliente-Extruir3
+    3300120: Saliente-Extruir5
+    3300122: Saliente-Extruir5 1
+    4300000: Cortar-Extruir5
+    4300002: Cortar-Extruir1
+    4300004: Cortar-Extruir1
+    4300006: Cortar-Extruir2
+    4300008: "Chafl\xE1n1"
+    4300010: Cortar-Extruir1
+    4300012: Cortar-Extruir1
+    4300014: Cortar-Extruir1
+    4300016: Cortar-Extruir1
+    4300018: Cortar-Extruir1
+    4300020: Cortar-Extruir1
+    4300022: Cortar-Extruir1
+    4300024: Cortar-Extruir1
+    4300026: Cortar-Extruir1
+    4300028: Cortar-Extruir1
+    4300030: Saliente-Extruir1
+    4300032: Saliente-Extruir1
+    4300034: Cortar-Extruir5
+    4300036: Cortar-Extruir7
+    4300038: Saliente-Extruir1
+    4300040: Saliente-Extruir1
+    4300042: Cortar-Extruir1
+    4300044: Cortar-Extruir1
+    4300046: Cortar-Extruir3
+    4300048: Cortar-Extruir1
+    4300050: Saliente-Extruir5
+    4300052: "Revoluci\xF3n1"
+    4300054: MatrizL2
+    4300056: Redondeo1
+    4300058: Cortar-Extruir1
+    4300060: Cortar-Extruir3
+    4300062: Cortar-Extruir1
+    4300064: Saliente-Extruir5
+    4300066: "Revoluci\xF3n1"
+    4300068: MatrizL2
+    4300070: Redondeo1
+    4300072: Cortar-Extruir1
+    4300074: Cortar-Extruir1
+    4300076: Cortar-Extruir1
+    4300078: Cortar-Extruir1
+    4300080: Cortar-Extruir1
+    4300082: Cortar-Extruir3
+    4300084: Cortar-Extruir1
+    4300086: Cortar-Extruir1
+    4300088: Barrer2
+    4300090: Saliente-Extruir1
+    4300092: Cortar-Extruir6
+    4300094: Cortar-Extruir8
+    4300096: Saliente-Extruir1
+    4300098: Saliente-Extruir1
+    4300100: Barrer2
+    4300102: Cortar-Extruir3
+    4300104: Cortar-Extruir1
+    4300106: Cortar-Extruir1
+    4300108: Redondeo2
+    4300110: Cortar-Extruir12
+    4300112: Cortar-Extruir3
+    4300114: Cortar-Extruir9
+    4300116: Saliente-Extruir3
+    4300118: Redondeo2
+    4300120: Barrer3
+    4300122: "Chafl\xE1n1"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
